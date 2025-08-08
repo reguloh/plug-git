@@ -1,2 +1,3 @@
 # plug-git
-Repositorio creado para Ubits plug
+##  Descripcion 
+Repositorio creado para Ubits plug creadp el 08/08/2025
